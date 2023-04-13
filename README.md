@@ -10,7 +10,7 @@
   <tr>
     <td>
         <ol>
-            <li> <i class="fas fa-globe"></i> <a href="curso1/"> <b>  <i> </i> Creacion de paginas web con wordpress y No code </b> </a> </li>
+            <li> <i class="fa fa-globe"></i> <a href="curso1/"> <b>  <i> </i> Creacion de paginas web con wordpress y No code </b> </a> </li>
         </ol> 
    </td>
   </tr>  
