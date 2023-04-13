@@ -1,9 +1,9 @@
 # carrera-profesional-wordpress
 ## En este repositorio se guardara todos los ejercicios de los cursos que se realizan en la carrera profesional de wordpress en platzi
 <head>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
- <i class="fa fa-globe"></i> 
+ <i class="fas fa-globe-americas"></i> 
 <table>
   <tr>
     <td><img src="assets/wordpress-logo.png">  </td>
