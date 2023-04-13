@@ -8,7 +8,7 @@
   <tr>
     <td>
         <ol>
-            <li> <a href="curso1/"> <b>  <i> </i> _Creacion de paginas web con wordpress y No code_ </b> </a> <li>
+            <li> <a href="curso1/"> <b>  <i> </i> Creacion de paginas web con wordpress y No code </b> </a> <li>
         </ol> 
    </td>
   </tr>  
